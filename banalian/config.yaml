@@ -23,18 +23,18 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
-  main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+#Menus:
+  #main:
+    #- identifier: blog
+    #  name: Blog
+    #  title: Blog posts
+    #  url: /blogs
+    #  weight: 1
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -105,7 +105,7 @@ params:
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Lilian Pouvreau" # Brand name for the brand | default is the title variable
-    disableSearch: false
+    disableSearch: true
     # searchPlaceholder: "Search"
     menus:
       disableAbout: false
@@ -121,7 +121,7 @@ params:
     intro: "Bonjour, mon nom est"
     title: "Lilian Pouvreau."
     subtitle: "étudiant ingénieur en informatique"
-    content: "Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeu vidéos."
+    content: "Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeux vidéo."
     image: /images/me.jpg
     bottomImage:
       enable: true
@@ -148,11 +148,11 @@ params:
     title: "À propos de moi"
     image: "/images/me.jpg"
     content: |-
-      Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeu vidéos.
+      Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeux vidéo.
       Je suis actuellement en recherche de stage en tant que programmer Gameplay ou Outils. Je travaille sur plusieurs jeux et projets dans le cadre de mes cours, ainsi que le développement d'un plugin pour Trackmania.
     skills:
       enable: true
-      title: "Voici les languages avec lequel j'ai eu l'occasion de travailler dernièrement:"
+      title: "Voici les langagues avec lesquel j'ai eu l'occasion de travailler dernièrement:"
       items:
         - "C++"
         - "C#"
@@ -174,7 +174,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "Développement d'un outil interne de génération de rapports concernant les dépendances des projets de l'équipe. Outil réalisé en Java, puis intégré dans un pipeline Jenkins utilisant une librairie réalisé par l'équipe."
+        content: "Développement d'un outil interne de génération de rapports concernant les dépendances des projets de l'équipe. Outil réalisé en Java, puis intégré dans un pipeline Jenkins utilisant une librairie réalisée par l'équipe."
 
       - job: "Stage en laboratoire informatique"
         company: "UQAC"
@@ -185,7 +185,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "Développement d'algorithmes en intelligence artificielle dans les jeux vidéos. Plus particulièrement, travail sur l'algorithme du Monte Carlo Tree Search afin de réalisé une intelligence artificielle capable de jouer à des jeux comme snake. "
+        content: "Développement d'algorithmes en intelligence artificielle dans les jeux vidéo. Plus particulièrement, travail sur l'algorithme du Monte Carlo Tree Search afin de réaliser une intelligence artificielle capable de jouer à des jeux comme snake. "
       - job: "Serveur (Job étudiant)"
         company: "Villa Or"
         companyUrl: "https://villador49.com/"
@@ -217,7 +217,7 @@ params:
           url: "https://polytech.univ-tours.fr/"
         date: "2020 - 2023"
         content: |-
-          Filière Systèmes d'information
+          - Filière Systèmes d'information
       - title: "DUT GEII"
         school:
           name: "IUT d'Angers"
@@ -310,7 +310,7 @@ params:
   contact:
     enable: true
     title: "Contact"
-    content: N'hésitez pas à me contacter si vous le souhaitez. Je serais ravie de répondre à vos questions ou demandes.
+    content: N'hésitez pas à me contacte. Je serais ravi de répondre à vos questions ou demandes.
     email: lilian.pouvreau@free.fr
     btnName: Contactez-moi !
     # formspree:
