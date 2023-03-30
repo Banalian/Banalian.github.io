@@ -1,0 +1,3 @@
+[submodule "banalian/themes/hugo-profile"]
+	path = banalian/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
