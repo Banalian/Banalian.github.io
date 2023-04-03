@@ -152,7 +152,8 @@ params:
       Je suis actuellement en recherche de stage en tant que programmer Gameplay ou Outils. Je travaille sur plusieurs jeux et projets dans le cadre de mes cours, ainsi que le développement d'un plugin pour Trackmania.
     skills:
       enable: true
-      title: "Voici les langagues avec lesquel j'ai eu l'occasion de travailler dernièrement:"
+      title: |-
+        Voici les langagues avec lesquel j'ai eu l'occasion de travailler dernièrement:
       items:
         - "C++"
         - "C#"
@@ -241,70 +242,69 @@ params:
     enable: false
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
+      - title: Achievement 1
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         url: https://example.com
 
   # projects
   # TODO
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Extra leaderboard plugin pour Trackmania
+        content: Un plugin pour Trackmania (utilisant Openplanet) pour afficher plus de positions dans le leaderboard. Utilise Angelscript, et optionnellement une API externe.
+        image: /projects/ELP/main.jpg
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: Page du projet
+          link: 
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "AngelScript"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/Banalian/ExtraLeaderboardPositions
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Extra Leaderboard API
+        content: API utilisée par le plugin Extra leaderboard pour Trackmania. Utilise Java Enterprise Edition. Utilisée par le plugin pour appeler l'API de Nadeo avec un compte qui n'a jamais joué, ce qui est requis pour obtenir certaines informations.
         image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Java"
+          - "JEE"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/Banalian/ExtraLeaderboardAPI
+          - icon: fa-solid fa-heart-pulse
+            url: https://openplanet.dev/plugin/extraleaderboardpositions
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Yet Another Tower Defense
+        content: Un simple Tower Defense réalisé sur Unity. Attention aux ennemis, mais également à vos propres tours, qui peuvent se détruire entre elles. Réalisé en C#.
+        image: /projects/YATD/main.PNG
+        featured:
+          name: Page du projet
+          link: 
+        badges:
+          - "Unity"
+          - "C#"
+      
+      - title: Friend-Ship
+        content: Shoot'em up réalisé sur Unity. Combattez des ennemis, ou convertissez-les à votre cause. Réalisé en C# et basé sur une démo sur Pico-8.
         image: /images/projects/profile2.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Page du projet
+          link: 
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - "Unity"
+          - "C#"
+
+      - title: Drone Hunt
+        content: Third Person Shooter En multi-joueur. Réalisé en C++ et blueprints sur Unreal Engine 5. Jeu réalisé pour apprendre le networking et les back-end de jeu en ligne comme EOS (Epic Online Services)
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Page du projet
+          link: 
+        badges:
+          - "UE5"
+          - "C++"
 
   #Contact
   contact:
