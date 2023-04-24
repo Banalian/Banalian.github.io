@@ -252,30 +252,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Extra leaderboard plugin pour Trackmania
-        content: Un plugin pour Trackmania (utilisant Openplanet) pour afficher plus de positions dans le leaderboard. Utilise Angelscript, et optionnellement une API externe.
-        image: /projects/ELP/main.jpg
-        featured:
-          name: Page du projet
-          link: 
-        badges:
-          - "AngelScript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/Banalian/ExtraLeaderboardPositions
-
-      - title: Extra Leaderboard API
-        content: API utilisée par le plugin Extra leaderboard pour Trackmania. Utilise Java Enterprise Edition. Utilisée par le plugin pour appeler l'API de Nadeo avec un compte qui n'a jamais joué, ce qui est requis pour obtenir certaines informations.
-        image: /images/projects/converter.jpg
-        badges:
-          - "Java"
-          - "JEE"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/Banalian/ExtraLeaderboardAPI
-          - icon: fa-solid fa-heart-pulse
-            url: https://openplanet.dev/plugin/extraleaderboardpositions
-
       - title: Yet Another Tower Defense
         content: Un simple Tower Defense réalisé sur Unity. Attention aux ennemis, mais également à vos propres tours, qui peuvent se détruire entre elles. Réalisé en C#.
         image: /projects/YATD/main.PNG
