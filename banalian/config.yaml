@@ -293,17 +293,17 @@ params:
   singlePages:
     readTime:
       enable: true
-      content: "min read"
+      content: "minutes de lecture"
     scrollprogress:
       enable: true
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
+    read: "Lire"
+    toc: "Table des matières"
+    copyright: "Tous droits réservés"
+    pageNotFound: "Page non trouvée"
+    emailText: "Regardez ce site"
 
   datesFormat:
     article: "Jan 2, 2006"
