@@ -1,13 +1,13 @@
 ---
 title: "Extra Leaderboard API"
-date: 2023-04-24T12:00:00+05:30
+date: 2023-04-02T12:00:00+05:30
 draft: false
 github_link: "https://github.com/Banalian/ExtraLeaderboardAPI"
 author: Lilian Pouvreau
 tags: 
     - "Java"
     - "JEE"
-image: /images/projects/converter.jpg
+image: /projects/ELP/exemple2.jpg
 description: API utilisée par le plugin Extra leaderboard pour Trackmania. Utilise Java Enterprise Edition. Utilisée par le plugin pour appeler l'API de Nadeo avec un compte qui n'a jamais joué, ce qui est requis pour obtenir certaines informations.
 toc:
 ---

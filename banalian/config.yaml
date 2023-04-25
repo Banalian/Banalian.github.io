@@ -111,7 +111,7 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: true
+      disableProjects: false
       disableAchievements: true
       disableContact: false
 
@@ -250,43 +250,23 @@ params:
   # TODO
   projects:
     enable: true
-    # title: "Custom Name"
-    items:
-      - title: Yet Another Tower Defense
-        content: Un simple Tower Defense réalisé sur Unity. Attention aux ennemis, mais également à vos propres tours, qui peuvent se détruire entre elles. Réalisé en C#.
-        image: /projects/YATD/main.PNG
-        featured:
-          name: Page du projet
-          link: 
-        badges:
-          - "Unity"
-          - "C#"
-      
-      - title: Friend-Ship
-        content: Shoot'em up réalisé sur Unity. Combattez des ennemis, ou convertissez-les à votre cause. Réalisé en C# et basé sur une démo sur Pico-8.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Page du projet
-          link: 
-        badges:
-          - "Unity"
-          - "C#"
-
-      - title: Drone Hunt
-        content: Third Person Shooter En multi-joueur. Réalisé en C++ et blueprints sur Unreal Engine 5. Jeu réalisé pour apprendre le networking et les back-end de jeu en ligne comme EOS (Epic Online Services)
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Page du projet
-          link: 
-        badges:
-          - "UE5"
-          - "C++"
+    title: "Projets"
+    #items:
+    #  - title: Lorem ipsum dolor sit amet
+    #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    #    image: /projects/Lorem/main.jpg
+    #    featured:
+    #      name: Page du projet
+    #      link: 
+    #    badges:
+    #      - "Unity"
+    #      - "C#"
 
   #Contact
   contact:
     enable: true
     title: "Contact"
-    content: N'hésitez pas à me contacte. Je serais ravi de répondre à vos questions ou demandes.
+    content: N'hésitez pas à me contacter. Je serais ravi de répondre à vos questions ou demandes.
     email: lilian.pouvreau@free.fr
     btnName: Contactez-moi !
     # formspree:

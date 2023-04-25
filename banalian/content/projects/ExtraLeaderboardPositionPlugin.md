@@ -1,6 +1,6 @@
 ---
 title: "Extra Leaderboard Position Plugin"
-date: 2023-04-24T12:00:00+05:30
+date: 2023-04-02T12:00:00+05:30
 draft: false
 github_link: "https://github.com/Banalian/ExtraLeaderboardPositions"
 author: Lilian Pouvreau
@@ -20,8 +20,6 @@ Le plugin est disponible sur Openplanet : [Plugin](https://openplanet.dev/plugin
 
 A l'aide de ce plugin, vous pouvez afficher plusieurs positions supplémentaire (comme par exemple la 10éme, 100éme, 1000éme, etc...) dans le classement. Il est également possible d'afficher les positions hypothétiques des médailles de la course.
 
-(Images)
-
 ## Fonctionnement interne
 
 Ce plugin a été réalisé en utilisant le framework [OpenPlanet](https://openplanet.dev/). Il utilise le langage de script Angelscript. Cela permet d'écrire des scripts qui sont ensuite compilés et interprétés par OpenPlanet dans le jeu Trackmania.
@@ -32,3 +30,13 @@ Le fonctionnement global est  le suivant :
 - Le plugin affiche ensuite ces données dans le jeu, à l'aide de l'API d'UI de OpenPlanet, qui utilise ImGui.
 - En parallèle, le plugin écoute les évènements du jeu, afin de détecter quand une course est lancée, ou quand le joueur change de position dans le classement. Lorsqu'un de ces évènements est détecté, le plugin met à jour les données affichées.
 - Enfin, le joueur peut à tout moment modifier ses préférences via les options du plugin.
+
+## Images
+
+![Image 1](/projects/ELP/main.jpg)
+
+![Image 2](/projects/ELP/exemple.jpg)
+
+![Image 3](/projects/ELP/exemple2.jpg)
+
+![Image 4](/projects/ELP/options.jpg)
