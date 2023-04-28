@@ -153,7 +153,7 @@ params:
     skills:
       enable: true
       title: |-
-        Voici les langagues avec lesquel j'ai eu l'occasion de travailler dernièrement:
+        Voici les langagues avec lesquels j'ai eu l'occasion de travailler dernièrement:
       items:
         - "C++"
         - "C#"
@@ -186,7 +186,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "Développement d'algorithmes en intelligence artificielle dans les jeux vidéo. Plus particulièrement, travail sur l'algorithme du Monte Carlo Tree Search afin de réaliser une intelligence artificielle capable de jouer à des jeux comme snake. "
+        content: "Développement d'algorithmes en intelligence artificielle dans les jeux vidéo. Plus particulièrement, un travail sur l'algorithme du Monte Carlo Tree Search afin de réaliser une intelligence artificielle capable de jouer à des jeux comme snake. "
       - job: "Serveur (Job étudiant)"
         company: "Villa Or"
         companyUrl: "https://villador49.com/"

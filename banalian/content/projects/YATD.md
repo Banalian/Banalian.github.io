@@ -16,7 +16,7 @@ Un simple Tower Defense réalisé sur Unity. Attention aux ennemis, mais égalem
 
 ## Contexte
 
-Dans le cadre du cours de conception de jeu vidéo, j'ai eu l'occasion de réalisé ce Tower Defense en 3 mois dans une équpe de 3 personnes. Le but de ce projet était de réaliser un jeu de A à Z, afin de prendre en main les concepts clés de la conception de jeu vidéo, ainsi que le développement sur Unity.
+Dans le cadre du cours de conception de jeux vidéo, j'ai eu l'occasion de réaliser ce Tower Defense en 3 mois dans une équpe de 3 personnes. Le but de ce projet était de réaliser un jeu de A à Z, afin de prendre en main les concepts clés de la conception de jeux vidéo, ainsi que le développement sur Unity.
 
 
 ## Concept
@@ -37,11 +37,11 @@ Plusieurs tours sont disponibles, chacune ayant des caractéristiques différent
 
 En tuant des ennemis, le joueur gagne de l’or, qui lui permettra d’acheter de nouvelles tours, ou d’améliorer ses tours existantes.
 
-La difficulté du jeu réside dans le fait que certains ennemis peuvent blesser les tours et que ces derniers peuvent également se détruire en être, avec des projectiles mal placés. Le joueur devra donc faire attention à ne pas placer ses tours trop proches les unes des autres, afin d’éviter qu’elles ne se détruisent entre elles.
+La difficulté du jeu réside dans le fait que certains ennemis peuvent blesser les tours et que ces dernières peuvent également se détruire entre-elles, avec des projectiles mal placés. Le joueur devra donc faire attention à ne pas placer ses tours trop proches les unes des autres, afin d’éviter qu’elles ne se détruisent entre elles.
 
 ## Partie technique
 
-Durant ce projet, j'ai eu l'occasion de travail sur la plupart des systèmes, comme les tours, les ennemis, les projectiles, les vagues et le système général de jeu. J'ai également eu l'occasion de travailler en partie sur l'interface utilisateur.
+Durant ce projet, j'ai eu l'occasion de travailler sur la plupart des systèmes, comme les tours, les ennemis, les projectiles, les vagues et le système général de jeu. J'ai également eu l'occasion de travailler en partie sur l'interface utilisateur.
 
 
 
