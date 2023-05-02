@@ -225,9 +225,9 @@ params:
           url: "https://www.univ-angers.fr/fr/acces-directs/facultes-et-instituts/iut.html"
         date: "2018 - 2020"
         content: |-
-          Diplôme universitaire de technologie en Génie Electrique et Informatique Industrielle. Equivalent d'un Baccalauréat au Québec.
+          Diplôme universitaire de technologie en Génie Électrique et Informatique Industrielle. Équivalent d'un Baccalauréat au Québec.
           - Spécialité Informatique
-          - Séjour d'études à l'UQAC (Canada) durant 4 mois de janvier à avril 2020
+          - Séjour d'études à l'UQAC (Canada) durant 4 mois de janvier à avril 2020 + 2 mois de stage à l'UQAC
       - title: "Baccalauréat STI2D (Mention Très bien)"
         school:
           name: "Lycée Chevrollier, Angers"

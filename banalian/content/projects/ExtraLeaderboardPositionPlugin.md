@@ -1,6 +1,6 @@
 ---
 title: "Extra Leaderboard Position Plugin"
-date: 2023-04-02T12:00:00+05:30
+date: 2023-03-02T12:00:00+05:30
 draft: false
 github_link: "https://github.com/Banalian/ExtraLeaderboardPositions"
 author: Lilian Pouvreau
@@ -13,8 +13,10 @@ toc:
 
 Ce plugin, réalisé pour Trackmania en utilisant OpenPlanet, permet d'afficher un nombre personnalisé de positions dans le classement, qui ne sont normalement pas facilement accessibles via l'interface du jeu.
 
-
 Le plugin est disponible sur Openplanet : [Plugin](https://openplanet.dev/plugin/extraleaderboardpositions)
+
+Lien vers le repository : [Github](https://github.com/Banalian/ExtraLeaderboardPositions)
+
 
 ## Fonctionnalités
 

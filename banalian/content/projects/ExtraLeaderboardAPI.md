@@ -1,6 +1,6 @@
 ---
 title: "Extra Leaderboard API"
-date: 2023-04-02T12:00:00+05:30
+date: 2023-03-01T12:00:00+05:30
 draft: false
 github_link: "https://github.com/Banalian/ExtraLeaderboardAPI"
 author: Lilian Pouvreau
@@ -13,6 +13,8 @@ toc:
 ---
 
 Cet API, réalisée en utilisant Java Enterprise Edition, permet de récupérer des données sur le jeu Trackmania, développé par Nadeo. Ces données sont ensuite utilisées par le plugin [Extra Leaderboard Position Plugin](/projects/ExtraLeaderboardPositionPlugin).
+
+Lien vers le repository : [Github](https://github.com/Banalian/ExtraLeaderboardAPI)
 
 ## Fonctionnalités
 
