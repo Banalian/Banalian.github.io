@@ -12,13 +12,13 @@ description: Application en VR sur le casque Meta Quest 2, permettant de créer 
 toc:
 ---
 
-Une application en VR sur le casque Meta Quest 2, permettant de créer des notes en 3D et de travailler en collaboration avec d'autres utilisateurs. Réalisé dans le cadre du cours d'interaction 3D et Réalité virtuel en quelques semaines avec 2 autres étudiants.
+Une application en VR sur le casque Meta Quest 2, permettant de créer des notes en 3D et de travailler en collaboration avec d'autres utilisateurs. Réalisé dans le cadre du cours d'Interaction 3D et Réalité virtuel en quelques semaines avec 2 autres étudiants.
 
 ## Description
 
-Cette application avait pour but de permettre à des utilisateurs de se rejoindre dans un espace virtuel et de pouvoir y créer des notes en 3D. Ces notes consistaient en des textes, boîtes, liens et dessin pouvant être imbriqués les uns dans les autres. Les utilisateurs pouvaient également se déplacer dans l'espace et interagir avec les notes des autres utilisateurs.
+Cette application avait pour but de permettre à des utilisateurs de se rejoindre dans un espace virtuel et de pouvoir y créer des notes en 3D. Ces notes consistaient en des textes, boîtes, liens et dessins pouvant être imbriqués les uns dans les autres. Les utilisateurs pouvaient également se déplacer dans l'espace et interagir avec les notes des autres utilisateurs.
 
-Durant le développement, les features de dessin, boîte et liens ont été réalisé. J'ai pour ma part eu l'occasion de travailler à la création d'un système de sauvegarde d'espace de travail, et de m'occuper de l'intégration des autres systèmes et de la mise en place de l'architecture du projet VR.
+Durant le développement, les features de dessins, boîtes et liens ont été réalisées. J'ai pour ma part eu l'occasion de travailler à la création d'un système de sauvegarde d'espace de travail, et de m'occuper de l'intégration des autres systèmes et de la mise en place de l'architecture du projet VR.
 
 ## Aspect technique
 
@@ -26,7 +26,7 @@ Le projet a été réalisé en C# avec le moteur de jeu Unity en quelques semain
 
 ### Système de sauvegarde
 
-J'ai eu l'occasion de travailler sur le système de sauvegarde d'espace de travail, ce qui m'a demandé d'intégrer tous les autres systèmes existants. J'ai pour cela utilisé une librairie permettant d'effectuer des sérialisations de scènes/GameObjects sur Unity. Cette librairie fonctionnait bien pour nos besoins, mais vers la fin de projet, un souci au niveau du build à empêché d'avoir un fonctionnement parfait. Ce souci aurait pu être réglé avec plus de temps, en re-adaptant le système actuel pour sauvegarder un GameObject contenant l'espace de travail, plutôt qu'en sérialisant toute la scène sauf les éléments non nécessaires.
+J'ai eu l'occasion de travailler sur le système de sauvegarde d'espace de travail, ce qui m'a demandé d'intégrer tous les autres systèmes existants. J'ai pour cela utilisé une librairie permettant d'effectuer des sérialisations de scènes/GameObjects sur Unity. Cette librairie fonctionnait bien pour nos besoins, mais vers la fin de projet, un souci au niveau du build a empêché d'avoir un fonctionnement parfait. Ce souci aurait pu être réglé avec plus de temps, en réadaptant le système actuel pour sauvegarder un GameObject contenant l'espace de travail, plutôt qu'en sérialisant toute la scène sauf les éléments non-nécessaires.
 
 
 ## Images
