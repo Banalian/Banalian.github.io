@@ -153,12 +153,16 @@ params:
     skills:
       enable: true
       title: |-
-        Voici les langagues avec lesquels j'ai eu l'occasion de travailler dernièrement:
+        Voici les langagues et outils avec lesquels j'ai eu l'occasion de travailler dernièrement:
       items:
         - "C++"
         - "C#"
         - "Java"
         - "Angelscript"
+        - "Git"
+        - "Perforce"
+        - "Unity"
+        - "Unreal Engine"
 
   # Experience
   experience:
@@ -279,7 +283,7 @@ params:
     recentPosts:
       path: "blogs"
       count: 3
-      title: Recent Posts
+      title: Posts récents
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Banalian
