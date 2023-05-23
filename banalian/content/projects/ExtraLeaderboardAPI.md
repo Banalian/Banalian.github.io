@@ -7,6 +7,7 @@ author: Lilian Pouvreau
 tags: 
     - "Java"
     - "JEE"
+    - "Git"
 image: /projects/ELP/exemple2.jpg
 description: API utilisée par le plugin Extra leaderboard pour Trackmania. Utilise Java Enterprise Edition. Utilisée par le plugin pour appeler l'API de Nadeo avec un compte qui n'a jamais joué, ce qui est requis pour obtenir certaines informations.
 toc:

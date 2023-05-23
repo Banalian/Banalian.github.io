@@ -7,6 +7,7 @@ author: Lilian Pouvreau
 tags: 
     - "Unity"
     - "C#"
+    - "Git"
 image: /projects/Babillard3D/4.PNG
 description: Application en VR sur le casque Meta Quest 2, permettant de créer des notes en 3D et de travailler en collaboration avec d'autres utilisateurs.
 toc:

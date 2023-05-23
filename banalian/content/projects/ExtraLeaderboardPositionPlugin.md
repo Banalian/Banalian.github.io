@@ -6,6 +6,7 @@ github_link: "https://github.com/Banalian/ExtraLeaderboardPositions"
 author: Lilian Pouvreau
 tags: 
     - "AngelScript"
+    - "Git"
 image: /projects/ELP/main.jpg
 description: Un plugin pour Trackmania (utilisant Openplanet) pour afficher plus de positions dans le leaderboard. Utilise Angelscript, et optionnellement une API externe.
 toc:
