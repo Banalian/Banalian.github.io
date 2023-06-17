@@ -271,7 +271,7 @@ params:
     enable: true
     title: "Contact"
     content: N'hésitez pas à me contacter. Je serais ravi de répondre à vos questions ou demandes.
-    email: lilian.pouvreau@free.fr
+    email: pouvreaulilian@gmail.com
     btnName: Contactez-moi !
     # formspree:
     #   enable: true # `contact.email` value will be ignored
