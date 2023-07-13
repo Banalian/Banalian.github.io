@@ -112,7 +112,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: true
+      disableAchievements: false
       disableContact: false
 
   # Hero
@@ -243,12 +243,15 @@ params:
 
   # Achievements
   achievements:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "Accomplissements"
     items:
-      - title: Achievement 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        url: https://example.com
+      - title: Game Maker's Toolkit Game Jam 2023
+        content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans le cadre du Game Maker's Toolkit Game Jam 2023. Le thème était "Reversed roles". Nous avons fini 669éme sur près de 6900 jeux. Le jeu est disponible sur itch.io.
+        url: https://banalian.itch.io/rebrick
+    #  - title: Achievement 1
+    #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    #    url: https://example.com
 
   # projects
   # TODO
