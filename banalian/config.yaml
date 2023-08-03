@@ -149,7 +149,7 @@ params:
     image: "/images/me.jpg"
     content: |-
       Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeux vidéo.
-      Je suis actuellement en recherche de stage en tant que programmer Gameplay ou Outils. Je travaille sur plusieurs jeux et projets dans le cadre de mes cours, ainsi que le développement d'un plugin pour Trackmania.
+      Je travaille sur plusieurs jeux et projets dans le cadre de mes cours, ainsi que le développement d'un plugin pour Trackmania.
     skills:
       enable: true
       title: |-
