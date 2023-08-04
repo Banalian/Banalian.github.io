@@ -74,7 +74,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   font:
     fontSize: 1rem # default: 1rem
@@ -249,6 +249,10 @@ params:
       - title: Game Maker's Toolkit Game Jam 2023
         content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans le cadre du Game Maker's Toolkit Game Jam 2023. Le thème était "Reversed roles". Nous avons fini 669éme sur près de 6900 jeux. Le jeu est disponible sur itch.io.
         url: https://banalian.itch.io/rebrick
+    items:
+      - title: Jum Jam 2023
+        content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans le cadre du Jum Jam 2023, une game jam entre amis. Le thème était "One Room". Le jeu est disponible sur itch.io.
+        url: https://banalian.itch.io/roomblock
     #  - title: Achievement 1
     #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     #    url: https://example.com
@@ -273,7 +277,7 @@ params:
   contact:
     enable: true
     title: "Contact"
-    content: N'hésitez pas à me contacter. Je serais ravi de répondre à vos questions ou demandes.
+    content: N'hésitez pas à me contacter. Je serai ravi de répondre à vos questions ou demandes.
     email: pouvreaulilian@gmail.com
     btnName: Contactez-moi !
     # formspree:
@@ -300,7 +304,7 @@ params:
   singlePages:
     readTime:
       enable: true
-      content: "minutes de lecture"
+      content: " minutes de lecture"
     scrollprogress:
       enable: true
 
