@@ -169,6 +169,18 @@ params:
     enable: true
     title: "Expérience professionnelle"
     items:
+      - job: "Stage en programmation UI Eng"
+        company: "Beenox"
+        companyUrl: "https://beenox.com/"
+        date: "Septembre 2023 - Mars 2024"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false
+        content: "Travail sur deux titres (Call of Duty Modern Warfare III et un titre non annoncé). Réalisation de features en Interface Utilisateur, côté ingénierie, et bugfix sur ces deux titres. Réalisation d'un outil pour Perforce."
+
       - job: "Stage développeur"
         company: "Worldline"
         companyUrl: "https://fr.worldline.com/fr/home.html"
