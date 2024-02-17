@@ -224,7 +224,7 @@ params:
         school:
           name: "Université du Québec à Chicoutimi"
           url: "https://uqac.ca"
-        date: "2022 - 2023"
+        date: "2022 - 2024"
         content: |-
           Spécialité jeux vidéo 
           - Travail sur plusieurs concepts dans le domaine des jeux vidéo comme moteur de jeux, réseau, conception et jeux sérieux
@@ -232,7 +232,7 @@ params:
         school:
           name: "Polytech Tours"
           url: "https://polytech.univ-tours.fr/"
-        date: "2020 - 2023"
+        date: "2020 - 2024"
         content: |-
           - Filière Systèmes d'information
       - title: "DUT GEII"
