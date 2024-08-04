@@ -120,8 +120,8 @@ params:
     enable: true
     intro: "Bonjour, mon nom est"
     title: "Lilian Pouvreau."
-    subtitle: "étudiant ingénieur en informatique"
-    content: "Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeux vidéo."
+    subtitle: "Maître et ingénieur français en informatique"
+    content: "Je suis un ingénieur en informatique (UQAC et Polytech Tours). J'ai une passion pour le développement, dont celui de jeux vidéo."
     image: /images/me.jpg
     bottomImage:
       enable: true
@@ -148,17 +148,19 @@ params:
     title: "À propos de moi"
     image: "/images/me.jpg"
     content: |-
-      Je suis un étudiant ingénieur en informatique à l'UQAC et à Polytech Tours. J'ai une passion pour le développement, dont celui de jeux vidéo.
-      Je travaille sur plusieurs jeux et projets dans le cadre de mes cours, ainsi que le développement d'un plugin pour Trackmania.
+      Je suis un ingénieur en informatique (UQAC et Polytech Tours). J'ai une passion pour le développement, dont celui de jeux vidéo.
+      Je travaille sur plusieurs projets dans le cadre professionnel et personnel, comme par exemple le développement d'un plugin pour Trackmania ayant des milliers de téléchargements.
     skills:
       enable: true
       title: |-
         Voici les langagues et outils avec lesquels j'ai eu l'occasion de travailler dernièrement:
       items:
         - "C++"
+        - "Lua"
         - "C#"
         - "Java"
         - "Angelscript"
+        - "Python"
         - "Git"
         - "Perforce"
         - "Unity"
@@ -169,6 +171,18 @@ params:
     enable: true
     title: "Expérience professionnelle"
     items:
+      - job: "Consultant en Informatique"
+        company: "Boutique Imaginaire"
+        companyUrl: "https://imaginaire.com/"
+        date: "Juin 2024 - Septembre 2024"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false
+        content: "Travail sur plusieurs projets internes de différentes envergures, allant de l'IA à des plus petites tâches d'automatisation."
+
       - job: "Stage en programmation UI Eng"
         company: "Beenox"
         companyUrl: "https://beenox.com/"
