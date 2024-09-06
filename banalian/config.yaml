@@ -272,11 +272,14 @@ params:
     enable: true
     title: "Accomplissements"
     items:
+      - title: Game Maker's Toolkit Game Jam 2024
+        content: J'ai participé à l'édition 2024 de la GMTK's Game Jam avec un ami. Le thème était "Built to Scale". Nous avons fini 637éme sur plus de 7600 jeux. Le jeu est disponible sur itch.io.
+        url: https://banalian.itch.io/bar-of-demanding-gods
       - title: Game Maker's Toolkit Game Jam 2023
-        content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans le cadre du Game Maker's Toolkit Game Jam 2023. Le thème était "Reversed roles". Nous avons fini 669éme sur près de 6900 jeux. Le jeu est disponible sur itch.io.
+        content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans une équipe de 4 personnes dans le cadre du Game Maker's Toolkit Game Jam 2023. Le thème était "Reversed roles". Nous avons fini 669éme sur près de 6900 jeux. Le jeu est disponible sur itch.io.
         url: https://banalian.itch.io/rebrick
       - title: Jum Jam 2023
-        content: J'ai eu l'occasion de réaliser un jeu vidéo en 48h dans le cadre du Jum Jam 2023, une game jam entre amis. Le thème était "One Room". Le jeu est disponible sur itch.io.
+        content: J'ai eu l'occasion de réaliser un jeu vidéo seul en 48h dans le cadre du Jum Jam 2023, une game jam entre amis. Le thème était "One Room". Le jeu est disponible sur itch.io.
         url: https://banalian.itch.io/roomblock
     #  - title: Achievement 1
     #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
