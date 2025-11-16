@@ -171,6 +171,18 @@ params:
     enable: true
     title: "Expérience professionnelle"
     items:
+     - job: "Développeur"
+        company: "Beenox"
+        companyUrl: "https://beenox.com/"
+        date: "Septembre 2024 - Aujourd'hui"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false
+        content: "Travail sur Call of Duty (plusieurs projets) en UI et Automation."
+
       - job: "Consultant en Informatique"
         company: "Boutique Imaginaire"
         companyUrl: "https://imaginaire.com/"
