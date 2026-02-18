@@ -148,7 +148,7 @@ params:
     title: "À propos de moi"
     image: "/images/me.jpg"
     content: |-
-      Je suis un ingénieur en informatique (UQAC et Polytech Tours). J'ai une passion pour le développement, dont celui de jeux vidéo.
+      Je suis un Maître et Ingénieur en informatique (UQAC et Polytech Tours). J'ai une passion pour le développement, dont celui de jeux vidéo.
       Je travaille sur plusieurs projets dans le cadre professionnel et personnel, comme par exemple le développement d'un plugin pour Trackmania ayant des milliers de téléchargements.
     skills:
       enable: true
@@ -183,7 +183,7 @@ params:
           enable: false
         content: "Travail sur Call of Duty (plusieurs projets) en UI et Automation."
 
-      - job: "Consultant en Informatique"
+      - job: "Programmeur en Informatique"
         company: "Boutique Imaginaire"
         companyUrl: "https://imaginaire.com/"
         date: "Juin 2024 - Septembre 2024"
@@ -219,7 +219,7 @@ params:
           enable: false
         content: "Développement d'un outil interne de génération de rapports concernant les dépendances des projets de l'équipe. Outil réalisé en Java, puis intégré dans un pipeline Jenkins utilisant une librairie réalisée par l'équipe."
 
-      - job: "Stage en laboratoire informatique"
+      - job: "Projet en laboratoire informatique"
         company: "UQAC"
         companyUrl: "https://liara.uqac.ca/"
         date: "Mai 2020 - Juin 2020"
@@ -269,7 +269,7 @@ params:
         content: |-
           Diplôme universitaire de technologie en Génie Électrique et Informatique Industrielle. Équivalent d'un Baccalauréat au Québec.
           - Spécialité Informatique
-          - Séjour d'études à l'UQAC (Canada) durant 4 mois de janvier à avril 2020 + 2 mois de stage à l'UQAC
+          - Séjour d'études à l'UQAC (Canada) durant 4 mois de janvier à avril 2020
       - title: "Baccalauréat STI2D (Mention Très bien)"
         school:
           name: "Lycée Chevrollier, Angers"
